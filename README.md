@@ -50,3 +50,10 @@ This project demonstrates practical experience with:
 * PWM motor control
 * Hardware/software integration
 * Oscilloscope signal analysis
+
+
+## Video Demonstrations
+
+- [Carpet Surface Test](https://rumble.com/v76ua66-motor-carpet.html)
+
+- [Flat Surface Test](https://rumble.com/v76u9v4-flat-surface.html)
